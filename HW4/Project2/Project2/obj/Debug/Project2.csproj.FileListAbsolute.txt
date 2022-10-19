@@ -1,0 +1,13 @@
+F:\EAD\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+F:\EAD\Project2\Project2\bin\Debug\Project2.exe.config
+F:\EAD\Project2\Project2\bin\Debug\Project2.exe
+F:\EAD\Project2\Project2\bin\Debug\Project2.pdb
+F:\EAD\Project2\Project2\obj\Debug\Project2.exe
+F:\EAD\Project2\Project2\obj\Debug\Project2.pdb
+F:\Semester6\EAD\Home Tasks\HW4\Project2\Project2\bin\Debug\Project2.exe.config
+F:\Semester6\EAD\Home Tasks\HW4\Project2\Project2\bin\Debug\Project2.exe
+F:\Semester6\EAD\Home Tasks\HW4\Project2\Project2\bin\Debug\Project2.pdb
+F:\Semester6\EAD\Home Tasks\HW4\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+F:\Semester6\EAD\Home Tasks\HW4\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+F:\Semester6\EAD\Home Tasks\HW4\Project2\Project2\obj\Debug\Project2.exe
+F:\Semester6\EAD\Home Tasks\HW4\Project2\Project2\obj\Debug\Project2.pdb
