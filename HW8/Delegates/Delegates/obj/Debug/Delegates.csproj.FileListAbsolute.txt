@@ -1,0 +1,7 @@
+F:\Semester6\EAD\Home Tasks\HW8\Delegates\Delegates\bin\Debug\Delegates.exe.config
+F:\Semester6\EAD\Home Tasks\HW8\Delegates\Delegates\bin\Debug\Delegates.exe
+F:\Semester6\EAD\Home Tasks\HW8\Delegates\Delegates\bin\Debug\Delegates.pdb
+F:\Semester6\EAD\Home Tasks\HW8\Delegates\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+F:\Semester6\EAD\Home Tasks\HW8\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+F:\Semester6\EAD\Home Tasks\HW8\Delegates\Delegates\obj\Debug\Delegates.exe
+F:\Semester6\EAD\Home Tasks\HW8\Delegates\Delegates\obj\Debug\Delegates.pdb
