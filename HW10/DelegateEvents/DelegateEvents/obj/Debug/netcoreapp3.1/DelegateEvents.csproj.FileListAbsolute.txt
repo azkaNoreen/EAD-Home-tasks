@@ -1,0 +1,14 @@
+F:\Semester6\EAD\Home Tasks\HW10\DelegateEvents\DelegateEvents\bin\Debug\netcoreapp3.1\DelegateEvents.exe
+F:\Semester6\EAD\Home Tasks\HW10\DelegateEvents\DelegateEvents\bin\Debug\netcoreapp3.1\DelegateEvents.deps.json
+F:\Semester6\EAD\Home Tasks\HW10\DelegateEvents\DelegateEvents\bin\Debug\netcoreapp3.1\DelegateEvents.runtimeconfig.json
+F:\Semester6\EAD\Home Tasks\HW10\DelegateEvents\DelegateEvents\bin\Debug\netcoreapp3.1\DelegateEvents.runtimeconfig.dev.json
+F:\Semester6\EAD\Home Tasks\HW10\DelegateEvents\DelegateEvents\bin\Debug\netcoreapp3.1\DelegateEvents.dll
+F:\Semester6\EAD\Home Tasks\HW10\DelegateEvents\DelegateEvents\bin\Debug\netcoreapp3.1\DelegateEvents.pdb
+F:\Semester6\EAD\Home Tasks\HW10\DelegateEvents\DelegateEvents\obj\Debug\netcoreapp3.1\DelegateEvents.csproj.AssemblyReference.cache
+F:\Semester6\EAD\Home Tasks\HW10\DelegateEvents\DelegateEvents\obj\Debug\netcoreapp3.1\DelegateEvents.GeneratedMSBuildEditorConfig.editorconfig
+F:\Semester6\EAD\Home Tasks\HW10\DelegateEvents\DelegateEvents\obj\Debug\netcoreapp3.1\DelegateEvents.AssemblyInfoInputs.cache
+F:\Semester6\EAD\Home Tasks\HW10\DelegateEvents\DelegateEvents\obj\Debug\netcoreapp3.1\DelegateEvents.AssemblyInfo.cs
+F:\Semester6\EAD\Home Tasks\HW10\DelegateEvents\DelegateEvents\obj\Debug\netcoreapp3.1\DelegateEvents.csproj.CoreCompileInputs.cache
+F:\Semester6\EAD\Home Tasks\HW10\DelegateEvents\DelegateEvents\obj\Debug\netcoreapp3.1\DelegateEvents.dll
+F:\Semester6\EAD\Home Tasks\HW10\DelegateEvents\DelegateEvents\obj\Debug\netcoreapp3.1\DelegateEvents.pdb
+F:\Semester6\EAD\Home Tasks\HW10\DelegateEvents\DelegateEvents\obj\Debug\netcoreapp3.1\DelegateEvents.genruntimeconfig.cache
