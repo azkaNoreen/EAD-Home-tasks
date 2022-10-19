@@ -1,0 +1,9 @@
+F:\Semester6\EAD\Home Tasks\HW5\hw5\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\Semester6\EAD\Home Tasks\HW5\hw5\DAL\bin\Debug\DAL.dll
+F:\Semester6\EAD\Home Tasks\HW5\hw5\DAL\bin\Debug\DAL.pdb
+F:\Semester6\EAD\Home Tasks\HW5\hw5\DAL\bin\Debug\BO.dll
+F:\Semester6\EAD\Home Tasks\HW5\hw5\DAL\bin\Debug\BO.pdb
+F:\Semester6\EAD\Home Tasks\HW5\hw5\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\Semester6\EAD\Home Tasks\HW5\hw5\DAL\obj\Debug\DAL.dll
+F:\Semester6\EAD\Home Tasks\HW5\hw5\DAL\obj\Debug\DAL.pdb
+F:\Semester6\EAD\Home Tasks\HW5\hw5\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache

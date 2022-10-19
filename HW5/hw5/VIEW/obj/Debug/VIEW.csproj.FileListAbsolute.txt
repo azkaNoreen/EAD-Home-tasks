@@ -1,0 +1,13 @@
+F:\Semester6\EAD\Home Tasks\HW5\hw5\VIEW\obj\Debug\VIEW.csproj.CoreCompileInputs.cache
+F:\Semester6\EAD\Home Tasks\HW5\hw5\VIEW\bin\Debug\VIEW.dll
+F:\Semester6\EAD\Home Tasks\HW5\hw5\VIEW\bin\Debug\VIEW.pdb
+F:\Semester6\EAD\Home Tasks\HW5\hw5\VIEW\bin\Debug\BLL.dll
+F:\Semester6\EAD\Home Tasks\HW5\hw5\VIEW\bin\Debug\BO.dll
+F:\Semester6\EAD\Home Tasks\HW5\hw5\VIEW\bin\Debug\DAL.dll
+F:\Semester6\EAD\Home Tasks\HW5\hw5\VIEW\bin\Debug\BLL.pdb
+F:\Semester6\EAD\Home Tasks\HW5\hw5\VIEW\bin\Debug\BO.pdb
+F:\Semester6\EAD\Home Tasks\HW5\hw5\VIEW\bin\Debug\DAL.pdb
+F:\Semester6\EAD\Home Tasks\HW5\hw5\VIEW\obj\Debug\VIEW.csproj.CopyComplete
+F:\Semester6\EAD\Home Tasks\HW5\hw5\VIEW\obj\Debug\VIEW.dll
+F:\Semester6\EAD\Home Tasks\HW5\hw5\VIEW\obj\Debug\VIEW.pdb
+F:\Semester6\EAD\Home Tasks\HW5\hw5\VIEW\obj\Debug\VIEW.csproj.AssemblyReference.cache

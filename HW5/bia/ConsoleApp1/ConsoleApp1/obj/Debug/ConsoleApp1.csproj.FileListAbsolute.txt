@@ -1,0 +1,16 @@
+F:\Semester6\EAD\Home Tasks\HW5\bia\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\Semester6\EAD\Home Tasks\HW5\bia\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\Semester6\EAD\Home Tasks\HW5\bia\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\Semester6\EAD\Home Tasks\HW5\bia\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\Semester6\EAD\Home Tasks\HW5\bia\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\Semester6\EAD\Home Tasks\HW5\bia\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+F:\Semester6\EAD\Home Tasks\HW5\bia\ConsoleApp1\ConsoleApp1\bin\Debug\view.dll
+F:\Semester6\EAD\Home Tasks\HW5\bia\ConsoleApp1\ConsoleApp1\bin\Debug\BO.dll
+F:\Semester6\EAD\Home Tasks\HW5\bia\ConsoleApp1\ConsoleApp1\bin\Debug\BLL.dll
+F:\Semester6\EAD\Home Tasks\HW5\bia\ConsoleApp1\ConsoleApp1\bin\Debug\DAL.dll
+F:\Semester6\EAD\Home Tasks\HW5\bia\ConsoleApp1\ConsoleApp1\bin\Debug\view.pdb
+F:\Semester6\EAD\Home Tasks\HW5\bia\ConsoleApp1\ConsoleApp1\bin\Debug\BO.pdb
+F:\Semester6\EAD\Home Tasks\HW5\bia\ConsoleApp1\ConsoleApp1\bin\Debug\BLL.pdb
+F:\Semester6\EAD\Home Tasks\HW5\bia\ConsoleApp1\ConsoleApp1\bin\Debug\DAL.pdb
+F:\Semester6\EAD\Home Tasks\HW5\bia\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+F:\Semester6\EAD\Home Tasks\HW5\bia\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete

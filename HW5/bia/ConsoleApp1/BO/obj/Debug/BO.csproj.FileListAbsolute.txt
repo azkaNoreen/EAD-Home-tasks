@@ -1,0 +1,5 @@
+F:\Semester6\EAD\Home Tasks\HW5\bia\ConsoleApp1\BO\bin\Debug\BO.dll
+F:\Semester6\EAD\Home Tasks\HW5\bia\ConsoleApp1\BO\bin\Debug\BO.pdb
+F:\Semester6\EAD\Home Tasks\HW5\bia\ConsoleApp1\BO\obj\Debug\BO.csproj.CoreCompileInputs.cache
+F:\Semester6\EAD\Home Tasks\HW5\bia\ConsoleApp1\BO\obj\Debug\BO.dll
+F:\Semester6\EAD\Home Tasks\HW5\bia\ConsoleApp1\BO\obj\Debug\BO.pdb

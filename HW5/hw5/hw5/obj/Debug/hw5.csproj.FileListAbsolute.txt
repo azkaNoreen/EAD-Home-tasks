@@ -1,0 +1,16 @@
+F:\Semester6\EAD\Home Tasks\HW5\hw5\hw5\obj\Debug\hw5.csproj.CoreCompileInputs.cache
+F:\Semester6\EAD\Home Tasks\HW5\hw5\hw5\bin\Debug\hw5.exe.config
+F:\Semester6\EAD\Home Tasks\HW5\hw5\hw5\bin\Debug\hw5.exe
+F:\Semester6\EAD\Home Tasks\HW5\hw5\hw5\bin\Debug\hw5.pdb
+F:\Semester6\EAD\Home Tasks\HW5\hw5\hw5\bin\Debug\VIEW.dll
+F:\Semester6\EAD\Home Tasks\HW5\hw5\hw5\bin\Debug\BO.dll
+F:\Semester6\EAD\Home Tasks\HW5\hw5\hw5\bin\Debug\BLL.dll
+F:\Semester6\EAD\Home Tasks\HW5\hw5\hw5\bin\Debug\DAL.dll
+F:\Semester6\EAD\Home Tasks\HW5\hw5\hw5\bin\Debug\VIEW.pdb
+F:\Semester6\EAD\Home Tasks\HW5\hw5\hw5\bin\Debug\BO.pdb
+F:\Semester6\EAD\Home Tasks\HW5\hw5\hw5\bin\Debug\BLL.pdb
+F:\Semester6\EAD\Home Tasks\HW5\hw5\hw5\bin\Debug\DAL.pdb
+F:\Semester6\EAD\Home Tasks\HW5\hw5\hw5\obj\Debug\hw5.csproj.CopyComplete
+F:\Semester6\EAD\Home Tasks\HW5\hw5\hw5\obj\Debug\hw5.exe
+F:\Semester6\EAD\Home Tasks\HW5\hw5\hw5\obj\Debug\hw5.pdb
+F:\Semester6\EAD\Home Tasks\HW5\hw5\hw5\obj\Debug\hw5.csproj.AssemblyReference.cache
